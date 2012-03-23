@@ -8,7 +8,7 @@ Compojure.
 Via emacs, start the dev server like so:
 
 ```clojure
-(require 'compojure-spike.core/app)
+(require 'compojure-spike.core)
 (use 'ring.util.serve)
 
 (serve compojure-spike.core/app)
