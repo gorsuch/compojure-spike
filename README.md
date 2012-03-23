@@ -22,6 +22,6 @@ To shut down:
 
 ## License
 
-Copyright (C) 2012 FIXME
+Copyright (C) 2012 Michael Gorsuch <michael.gorsuch@gmail.com>
 
 Distributed under the Eclipse Public License, the same as Clojure.
